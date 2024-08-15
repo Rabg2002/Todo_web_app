@@ -4,3 +4,4 @@ Scripts
 pyvenv.cfg
 share
 etc
+__pycache__
