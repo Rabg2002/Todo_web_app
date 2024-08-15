@@ -24,4 +24,4 @@ for index , todo in enumerate(todos):
 str.text_input(label="", placeholder="Enter new Todo..",
                 on_change=add_todo, key='new_todo')
 
-str.session_state
+#str.session_state
